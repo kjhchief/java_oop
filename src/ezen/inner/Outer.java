@@ -30,4 +30,6 @@ public class Outer {
 		Outer outer1 = new Outer();
 		Outer.Inner in = outer1.new Inner();
 	}
+	
+	// 깃 연습 코드 추가입니다.
 }
