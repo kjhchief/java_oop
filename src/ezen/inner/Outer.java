@@ -1,6 +1,7 @@
 package ezen.inner;
 
 public class Outer {
+	// ㅎㅎㅎㅎㅎㅎㅎㅎ 하하하하하하하하ㅏ
 	String name = "널";
 
 	public void outerMethod() {
